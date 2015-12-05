@@ -1,0 +1,11 @@
+README.txt
+setup.cfg
+setup.py
+farm/__init__.py
+farm/ferma.py
+helloworld/__init__.py
+helloworld/core.py
+helloworld.egg-info/PKG-INFO
+helloworld.egg-info/SOURCES.txt
+helloworld.egg-info/dependency_links.txt
+helloworld.egg-info/top_level.txt
